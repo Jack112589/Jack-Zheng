@@ -6,10 +6,10 @@
   授課地點：台大綜合教學館703
 ## Week 1
  
-### 0708
-  安裝/註冊github
-  安裝R/RStudio
-  [HW0.html練習](https://github.com/Jack112589/Jack-Zheng/blob/master/Week%201/HW0.html) 
+### 0708  
+安裝/註冊github  
+安裝R/RStudio  
+[HW0.html練習](https://github.com/Jack112589/Jack-Zheng/blob/master/Week%201/HW0.html) 
  
 ### 0711
 
