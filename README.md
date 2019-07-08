@@ -6,10 +6,10 @@
 ## Week 1
  
  # 0708
- 安裝/註冊github
- 安裝R/RStudio
- [HW0]
- 課後練習
+  安裝/註冊github
+  安裝R/RStudio
+  [HW0]
+  課後練習
  
  # 0711
 
