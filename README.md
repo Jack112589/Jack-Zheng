@@ -6,10 +6,10 @@
 ## Week 1
  
 ### 0708
- 安裝/註冊github
- 安裝R/RStudio
- [HW0]
- 課後練習
+   安裝/註冊github
+   安裝R/RStudio
+   [HW0](https://github.com/Jack112589/Jack-Zheng/blob/master/HW0.html)
+   課後練習
  
 ### 0711
 
