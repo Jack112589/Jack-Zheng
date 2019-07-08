@@ -14,7 +14,7 @@
   
  安裝R/RStudio
  
- [HW0.html練習](https://github.com/Jack112589/Jack-Zheng/blob/master/HW0.html) 
+ [HW0.html練習](https://github.com/Jack112589/Jack-Zheng/blob/master/Week%201/HW0.html) 
  
 ### 0711
 
